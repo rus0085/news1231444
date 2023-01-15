@@ -93,7 +93,7 @@ def cryptonews(message):
 {text5[27]}
     
 
-    [NFT головного мозга](https://t.me/+Jj83xA-DNyhmN2Iy) | [Всё об NFT](https://t.me/+Jj83xA-DNyhmN2Iy)
+    [*************) | [Всё об NFT](*************)
 
             """
         except:
