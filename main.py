@@ -6,7 +6,7 @@ import re
 import telebot
 from telebot import types
 
-token = '5136783035:AAFxDeRpBQhLBsKBHfg0DoYhgQIKeTarQzo'
+token = '********************'
 bot = telebot.TeleBot(token)
 
 def nft_arty(message):
